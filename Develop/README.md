@@ -7,6 +7,7 @@ MarkDownMaster is a cool tool that helps you whip up README files in a flash
 
 ## Table of Contents
 - [Installation](#installation)
+- [Video Links](#Videolinks)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
