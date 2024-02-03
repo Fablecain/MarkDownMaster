@@ -1,7 +1,8 @@
+## SAMPLE RESULT OF VIDEO
 
 # MarkDownMaster
 
-## Description
+## Description  
 MarkDownMaster is a cool tool that helps you whip up README files in a flash
 
 ## Table of Contents
