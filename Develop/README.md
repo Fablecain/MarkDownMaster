@@ -37,3 +37,7 @@ run node index.js, answer the prompts, check the generated README.md to make sur
 
 ## Questions
 For any questions, please contact me at [cain6gates@gmail.com](mailto:cain6gates@gmail.com) or visit my GitHub profile [here](https://github.com/Fablecain).
+
+## Credit
+I would like to thank the devs of potential-enigma on GitHub for the startern code for this module 9 challenge!
+https://github.com/coding-boot-camp/potential-enigma
